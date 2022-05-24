@@ -1,4 +1,4 @@
-## Welcome to [Quantitative Solutions lab channel ](https://t.me/+P1OMIw8x6EkyODk6)
+## Welcome to Quantitative Solutions lab Pages. 
 
 You can use the [editor on GitHub](https://github.com/EugenioRJ/qslab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
